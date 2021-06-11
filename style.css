@@ -4,15 +4,12 @@ box-sizing:border-box;
 }
 body{
 
-
- margin:0;
+padding: 0px;
+ margin:0px;
  background-image: url('jgkll.jpg');
-
  background-size: cover;
-
-
+background-repeat: no-repeat;
 text-align: center;
-
 }
 
 h1{color:#b3e5fc;}
@@ -87,9 +84,13 @@ width: 200px;
       
    }}
 
-.finish{text-align: center;color: white;background: #555;opacity: 0.8;width: 100%;
-   align-items: center;
-   bottom: 100%; }
+.finish{text-align: center;color: white;
+background: #555;
+opacity: 0.8;
+width: 100%;
+text-align: center;
+  bottom: 100%;
+  margin-bottom: 0px;}
   
   
   .fa-facebook{color:blue;}

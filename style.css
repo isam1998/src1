@@ -3,7 +3,7 @@
 box-sizing:border-box;
 }
 body{
-height: 1500px;
+height: 1700px;
 padding: 0px;
  margin:0px;
  background-image: url('kkll.jpg');
@@ -93,7 +93,7 @@ background: #555;
 opacity: 0.8;
 width: 100%;
 text-align: center;
-margin-top: 100px;
+margin-bottom: -400px;
 
 }
   

@@ -3,12 +3,11 @@
 box-sizing:border-box;
 }
 body{
-
-
+height: 1000px;
+padding: 0px;
+ margin:0px;
  background-image: url('kkll.jpg');
  background-size: cover;
-
-background-attachment:scroll;
 text-align: center;
 }
 
@@ -32,7 +31,8 @@ button:hover{
 
 
 .i{
-   opacity: 0.5;height: 28px;text-indent:inheri:20px;border-radius: 10px;font-size: 16px;background-color: #80deea ;
+   opacity: 0.5;height: 28px;text-indent:inheri:20px;border-radius: 10px;
+   font-size: 16px;background-color: #80deea ;
 }
 select{ color: #039be5;height: 25px;border-radius: 10px;}
 
@@ -84,13 +84,7 @@ width: 200px;
       
    }}
 
-.finish{text-align: center;color: white;
-background: #555;
-opacity: 0.8;
-width: 100%;
-text-align: center;
-  bottom: 100%;
-  margin-bottom:-100px;}
+
   
   
   .fa-facebook{color:blue;}

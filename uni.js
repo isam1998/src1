@@ -1,32 +1,6 @@
  
-//function isam(year) {
-   // var
-   // age=365;
- //  return "Hi isam  your age in Day = " + year*age + "."
-//}
-//isam()
-//var year =21;
-//document.getElementById("vvvv").innerHTML=isam (prompt("What your age?"));
-//var human = prompt("Are You Doctor or student?");
 
-//switch (human) {
-  // case "Doctor": alert("Welcome Doctor .....");break;
-      // case "student": alert("Welcome student .....");break;
-        // case "isam": alert("راسب من هسا ف تتعبش حالك.....");break;
-         //   case "maha": alert("حبيبة دلب عصوم و عيونه");brea
-      // default: alert("عذرا صديقي");
-      
-      
-//}
 
-       // function isam() {
-         //       document.getElementById("text").innerHTML="hi  isam alhariri";
-           //     alert=("iasm jjj")
-            // }
-                
-     //function isam2() {
-         //       document.getElementById("text").innerHTML="hi  maha love";
-          //   }
           
           alert("تنويه: هذا الموقع خاص بطلبة جامعة العلوم والتكنولوجيا الأردنية.")
         
@@ -51,7 +25,7 @@
             myDi.innerHTML=myIn.value*myChos.value;
             return myDi;
         } ;
-        
+        myP=document.wr
         
         
         var myInput3=document.getElementById("input3");

@@ -3,7 +3,7 @@
 box-sizing:border-box;
 }
 body{
-height: 1900px;
+height: 1400px;
 padding: 0px;
  margin:0px;
  background-image: url('kkll.jpg');
@@ -55,9 +55,12 @@ i:hover{
 ;
  border-radius: 30px;
 }
+.ani2{
+ 
+}
 .vvv{font-size: 30px;
-
-animation: isam 2s infinite;padding: -2px;
+animation: isam 2s infinite;
+padding: -2px;
 width: 200px;
 }
 
@@ -90,7 +93,7 @@ background: #555;
 opacity: 0.8;
 width: 100%;
 text-align: center;
-margin-bottom: 300px;
+margin-top: 100px;
 }
   
   

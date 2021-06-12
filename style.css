@@ -85,7 +85,12 @@ width: 200px;
       
    }}
 
-
+.finish{text-align: center;color: white;
+background: #555;
+opacity: 0.8;
+width: 100%;
+text-align: center;
+}
   
   
   .fa-facebook{color:blue;}

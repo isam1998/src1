@@ -3,12 +3,13 @@
 box-sizing:border-box;
 }
 body{
-height: 1000px;
+height: 1500px;
 padding: 0px;
  margin:0px;
  background-image: url('kkll.jpg');
  background-size: cover;
 text-align: center;
+background-repeat:no-repeat;
 }
 
 h1{color:#b3e5fc;}
